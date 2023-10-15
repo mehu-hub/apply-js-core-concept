@@ -7,5 +7,5 @@ const countryName = 'Bangladesh';
 countryName = 'India' // doesn't work
 console.log(countryName); //error
 //------------ var
-var name = 'Mehedi Hasan';
+var name = 'Mehedii Hasan';
 var name = 'Hasan Mehedi';
