@@ -7,5 +7,5 @@
     <li>Leap Year</li>
     <li>Miles to Kilo</li>
     <li>Is Even</li>
-    <li>Get Odd Number From Array</li>
+    <li>Get Odd Number An Array</li>
 </ul>
