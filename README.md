@@ -8,4 +8,5 @@
     <li>Miles to Kilo</li>
     <li>Is Even</li>
     <li>Get Odd Number An Array</li>
+    <li>Factorial</li>
 </ul>
