@@ -19,7 +19,7 @@ function getOddNumAnArray(numbers) {
     for (let i = 0; i < numbers.length; i++) {
         const index = i;
         const element = numbers[index];
-        if (element % 2 !== 0) {
+        if (element % 2 === 1) {
             // console.log(element);
             oddNumbers.push(element);
         }
